@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "66e8225d0926475add0e513065662139182254a3da256999f5865935063c3675"
+            "sha256": "7faace8576a961b5482bb1475f362c4358f9930cc118b134cf04499805332b25"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -32,11 +32,11 @@
         },
         "craft-ai": {
             "hashes": [
-                "sha256:dc14eb05cb439475f3151ed386c9f001a0df1c91c7a6f7ec0713faf7ff6449e3",
-                "sha256:ef9b235d32f7fb253a9834b8d08cdb051957b1deb5a42af974d0fbba323ad914"
+                "sha256:9f000f6afcb84e6443ff3c6b624a70ca60edb56dcae074d87ad8b39b7c90de8e",
+                "sha256:d2ffbf7d0064e2f111624de54e1e1501c2f2edc0c9cb598bb02dc0049a5e084b"
             ],
             "index": "pypi",
-            "version": "==2.0.0rc2"
+            "version": "==2.0.0rc3"
         },
         "idna": {
             "hashes": [
